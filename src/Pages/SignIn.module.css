@@ -1,0 +1,271 @@
+.forgotPassword {
+  position: absolute;
+  top: 0px;
+  left: 245.84px;
+  font-weight: 500;
+  display: inline-block;
+  width: 190.71px;
+  height: 20.01px;
+}
+
+.rememberMe {
+  position: absolute;
+  top: 0px;
+  left: 37.25px;
+  font-weight: 500;
+  color: #093545;
+  display: inline-block;
+  width: 160.91px;
+  height: 20.01px;
+}
+
+.sectionForgotChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-darkslategray-100);
+  width: 26.82px;
+  height: 20.01px;
+}
+
+.sectionForgot {
+  position: absolute;
+  top: 376.75px;
+  left: 40.23px;
+  width: 436.54px;
+  height: 20.01px;
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+
+.rectangle {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray-100);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  width: 446.97px;
+  height: 52.98px;
+}
+
+.login {
+  position: absolute;
+  top: 15.31px;
+  left: 190.71px;
+  line-height: 20px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 65.56px;
+  height: 23.55px;
+}
+
+.loginBtn {
+  position: absolute;
+  top: 425.02px;
+  left: 35.76px;
+  width: 446.97px;
+  height: 52.98px;
+  font-size: var(--font-size-base);
+  color: #e7edef;
+}
+
+.rectangle1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray-100);
+  width: 446.97px;
+  height: 52.98px;
+}
+
+.password1 {
+  position: absolute;
+  top: 15.31px;
+  left: 31.29px;
+  line-height: 20px;
+  display: inline-block;
+  width: 96.84px;
+  height: 23.55px;
+}
+
+.password {
+  position: absolute;
+  top: 296.69px;
+  left: 35.76px;
+  width: 446.97px;
+  height: 52.98px;
+}
+
+.login1 {
+  position: absolute;
+  top: 14.13px;
+  left: 26.82px;
+  line-height: 20px;
+  display: inline-block;
+  width: 58.11px;
+  height: 23.55px;
+}
+
+.username {
+  position: absolute;
+  top: 206.03px;
+  left: 35.76px;
+  width: 446.97px;
+  height: 52.98px;
+}
+
+.signInAnd {
+  position: absolute;
+  top: 140.1px;
+  left: 0px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  width: 517px;
+  height: 23.55px;
+}
+
+.signIn1 {
+  position: absolute;
+  top: 0px;
+  left: 101.31px;
+  font-size: 64px;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  width: 315.86px;
+  height: 94.19px;
+}
+
+.form {
+  position: absolute;
+  top: 281px;
+  left: 149px;
+  width: 517px;
+  height: 478px;
+}
+
+.signInChild {
+  position: absolute;
+  top: -2px;
+  left: 884px;
+  background-color: var(--color-darkslategray-100);
+  width: 888px;
+  height: 1165px;
+}
+
+.undrawTwoFactorAuthenticatiIcon {
+  position: absolute;
+  top: 393px;
+  left: 999px;
+  width: 586px;
+  height: 369px;
+  overflow: hidden;
+}
+
+.inventaryManagementSystem {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 24px;
+  display: inline-block;
+  width: 643px;
+  height: 25px;
+}
+
+.everythingYouNeed {
+  position: absolute;
+  top: 25px;
+  left: 0px;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-lavender-200);
+  display: inline-block;
+  width: 643px;
+  height: 26px;
+}
+
+.inventaryManagementSystemParent {
+  position: relative;
+  width: 643px;
+  height: 51px;
+}
+
+.carouseldesktoplargeChild {
+  position: absolute;
+  height: 100%;
+  width: 40%;
+  top: 0%;
+  right: 60%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-lavender-100);
+}
+
+.carouseldesktoplargeItem {
+  position: absolute;
+  height: 100%;
+  width: 20%;
+  top: 0%;
+  right: 30%;
+  bottom: 0%;
+  left: 50%;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-lavender-300);
+}
+
+.carouseldesktoplargeInner {
+  position: absolute;
+  height: 100%;
+  width: 20%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 80%;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-lavender-300);
+}
+
+.carouseldesktoplarge {
+  position: relative;
+  width: 40px;
+  height: 8px;
+}
+
+.groupParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+
+.signInInner {
+  position: absolute;
+  top: 838px;
+  left: 978px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-31xl) 0px;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-xl);
+  color: var(--color-lavender-100);
+  font-family: var(--font-montserrat);
+}
+
+.signIn {
+  position: relative;
+  background-color: #f4fdfd;
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-lexend-deca);
+}
